@@ -1,4 +1,4 @@
-# comandos para prompt de comandos
+﻿# comandos para prompt de comandos
 
 - mkdir nome_pasta: cria uma pasta
 - cd nome_pasta: acessa pasta
@@ -13,3 +13,8 @@
 - git commit -m "mensagem da etiqueta que vai na mala"
 - git push origin master > envia a maleta para o remoto (github)
 - git status : verifica o estado do repositório local
+
+----
+o git é demais!
+Lrembrando que ogit é uma ferramenta de versionamento de arquivos
+o github é um repositório de projetos que utiliza o git.
