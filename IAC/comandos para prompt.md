@@ -1,8 +1,9 @@
 # comandos para prompt de comandos
--mkdir nome_pasta: cria uma pasta
--cd nome_pasta: acessa pasta
--cd .. : volta um nível na pasta
--ls: lista as pastas e arquivos da pasta
+
+- mkdir nome_pasta: cria uma pasta
+- cd nome_pasta: acessa pasta
+- cd .. : volta um nível na pasta
+- ls: lista as pastas e arquivos da pasta
 
 ------
 # do git
